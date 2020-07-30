@@ -10,3 +10,4 @@ Some of the questions which I try to answer include:
 4. How many officers were promoted despite having a complaint against them?
 
 For example I visualize the amount of complaints per officer and how many officers fall into these bins.
+![alt text](https://github.com/parkerashlan/NY_Police_Complaints_Exploration/blob/master/complaints.png)
