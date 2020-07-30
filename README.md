@@ -8,3 +8,5 @@ Some of the questions which I try to answer include:
 2. Are certain type of allegations more likely to be substantiated?
 3. What is the average amount of complaints against a police officer?
 4. How many officers were promoted despite having a complaint against them?
+
+For example I visualize the amount of complaints per officer and how many officers fall into these bins.
