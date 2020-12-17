@@ -1,5 +1,5 @@
 # NY Police Complaints Data Exploration
-In this project I aim to explore this dataset and see if I can visualize any patterns within the data. I wanted to see if I could find any
+In this project I aim to explore this dataset and see if I can visualize any patterns. I wanted to see if I could find any
 patterns within the complaints.
 
 Some of the questions which I try to answer include:
